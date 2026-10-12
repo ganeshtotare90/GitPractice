@@ -1,0 +1,7 @@
+Register Feature
+
+1. User enters name.
+2. User enters email.
+3. User enters password.
+4. System validates user details.
+5. Account is created successfully.
