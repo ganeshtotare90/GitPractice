@@ -7,3 +7,4 @@ This is master change
 Non fast foreward
 GitHub push practice
 Change made directly on GitHub
+Change made remotely for fetch practice
